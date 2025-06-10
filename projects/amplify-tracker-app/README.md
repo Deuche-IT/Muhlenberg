@@ -50,3 +50,53 @@ npm run dev
 
 # 4. Connect to Amplify backend
 amplify pull --appId YOUR_APP_ID --envName dev
+
+
+---
+
+## Project Structure
+
+.amplify/                # Internal configuration and data for Amplify CLI
+amplify/                 # Amplify backend resources (API, Auth, etc.)
+node_modules/            # Installed npm dependencies
+public/                  # Public static files (index.html, assets)
+src/                     # React and Vite source code (components, styles)
+.eslintrc                # ESLint configuration file for code linting
+.gitignore               # Files and folders ignored by Git
+amplify.yml              # Deployment configuration for Amplify Console
+amplify_outputs.json     # Backend deployment outputs and states
+CODE_OF_CONDUCT.md       # Project code of conduct
+CONTRIBUTING.md          # Contribution guidelines
+index.html               # Main public HTML file
+LICENSE                  # Project license
+package.json             # npm project metadata and scripts
+package-lock.json        # Exact versions of installed dependencies
+README.md                # Project documentation
+tsconfig.json            # TypeScript configuration for the project
+tsconfig.node.json       # TypeScript configuration for Node environment
+vite.config.ts           # Vite build tool configuration
+
+
+---
+
+AWS Services Used
+AWS Amplify
+
+AWS Lambda
+
+Amazon Cognito
+
+Amazon DynamoDB
+
+Amazon S3
+
+API Gateway
+
+
+
+---
+
+Author
+Germán Mühlenberg
+Email: gmuhlenberg@gmail.com
+GitHub: Deuche-IT
