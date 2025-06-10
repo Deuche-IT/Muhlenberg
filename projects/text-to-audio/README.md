@@ -29,6 +29,3 @@ This project converts text to speech using AWS Lambda and Amazon Polly. It autom
 
 ## Example Files
 Included are sample text inputs and resulting MP3 files demonstrating the audio quality.
-
-## Demo Link
-[Insert public link to audio demo or S3 bucket here]
