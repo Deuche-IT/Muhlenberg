@@ -35,9 +35,6 @@ A full-stack To-Do List Application built with React, using AWS Amplify Gen 2 fo
 
 ---
 
-## Getting Started
-
-```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
