@@ -53,7 +53,7 @@ amplify pull --appId YOUR_APP_ID --envName dev
 
 ---
 
-### **Project Structure**
+## **Project Structure**
 
 .amplify/                # Internal configuration and data for Amplify CLI  
 amplify/                 # Amplify backend resources (API, Auth, etc.)  
@@ -77,7 +77,7 @@ vite.config.ts           # Vite build tool configuration
 
 ---
 
-## AWS Services Used
+## **AWS Services Used**
 
 - AWS Amplify  
 - AWS Lambda  
@@ -88,7 +88,7 @@ vite.config.ts           # Vite build tool configuration
 
 ---
 
-## Author
+## **Author**
 
 Germán Mühlenberg  
 Email: gmuhlenberg@gmail.com  
