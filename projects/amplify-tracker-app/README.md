@@ -35,9 +35,11 @@ A full-stack To-Do List Application built with React, using AWS Amplify Gen 2 fo
 
 ---
 
+## Getting Started
+
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Deuche-IT/Muhlenberg.git
+cd Muhlenberg
 
 # 2. Install dependencies
 npm install
