@@ -1,6 +1,8 @@
 # Hotel Booking Chatbot
 
-<img src="./assets/chatbot.gif" alt="Demo Amplify Tracker" width="600"/>
+<p align="center">
+  <img src="./chatbot.gif" alt="Hotel Booking Chatbot Demo" width="600"/>
+</p>
 
 ## Project Overview
 This chatbot was developed using Amazon Lex to manage hotel bookings, with AWS Lambda handling the intent logic and Amazon Translate providing multilingual support.
