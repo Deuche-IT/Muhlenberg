@@ -1,5 +1,7 @@
 # Hotel Booking Chatbot
 
+![Demo del proyecto](./chatbot.gif)
+
 ## Project Overview
 This chatbot was developed using Amazon Lex to manage hotel bookings, with AWS Lambda handling the intent logic and Amazon Translate providing multilingual support.
 
