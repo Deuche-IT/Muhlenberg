@@ -1,5 +1,9 @@
 # React To-Do App with AWS Amplify Gen 2
 
+<p align="center">
+  <img src="./trackapp.gif" alt="Amplify Tracker App Demo" width="600"/>
+</p>
+
 A full-stack To-Do List Application built with React, using AWS Amplify Gen 2 for the backend and Amazon DynamoDB for data persistence. Includes user authentication, real-time updates, and CI/CD through GitHub.
 
 ---
