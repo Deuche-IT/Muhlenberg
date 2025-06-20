@@ -1,6 +1,8 @@
 # AWS Rekognition Project - Image Detection and Labeling
 
-![Vista previa](./assets/Sample.png)
+<p align="center">
+  <img src="./Sample.png" alt="AWS Rekognition Demo" width="600"/>
+</p>
 
 ## Project Overview
 This project uses Amazon Rekognition to analyze images stored in an AWS S3 bucket and detect objects present, generating labels with confidence scores. The processed image is saved with visible bounding boxes and labels, making it easier to visually interpret the analysis.
