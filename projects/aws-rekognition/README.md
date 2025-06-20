@@ -1,7 +1,7 @@
 # AWS Rekognition Project - Image Detection and Labeling
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Vista previa" width="600"/>
+  <img src="./assets/Sample.png" alt="Vista previa" width="600"/>
 </p>
 
 
