@@ -1,5 +1,9 @@
 # Zombie Tactics (WIP)
 
+<p align="center">
+  <img src="./demogame.gif" alt="Code of the Dead Gameplay" width="600"/>
+</p>
+
 **Zombie Tactics** is an unfinished 2D zombie shooter game built with Python, developed as a personal project to learn and practice core programming concepts.
 
 The game centers around a tactical squad of four soldiers who automatically shoot approaching enemies. It explores different layers of game logic, including AI behavior, health and ammo systems, and dynamic difficulty through wave progression.
