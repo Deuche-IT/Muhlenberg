@@ -1,10 +1,5 @@
 # Text-to-Speech Project Using AWS Lambda and Polly
 
-## Audio Output
-
-🎧 [Download audio sample](./Sample-Audio.mp3)  
-*(Right-click and choose "Save link as..." to download)*
-
 
 ## Project Overview
 This project converts text to speech using AWS Lambda and Amazon Polly. It automates the process of transforming book chapters or any text into audio files stored in AWS S3.
