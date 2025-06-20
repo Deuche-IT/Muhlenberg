@@ -1,7 +1,7 @@
 # AWS Rekognition Project - Image Detection and Labeling
 
 <p align="center">
-  <img src="./Sample.png" alt="AWS Rekognition Demo" width="600"/>
+  <img src="./Sample.png" alt="AWS Rekognition Demo" width="800"/>
 </p>
 
 ## Project Overview
